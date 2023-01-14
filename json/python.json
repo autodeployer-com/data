@@ -1,0 +1,30 @@
+[
+  {
+    "id": 8001,
+    "url": "#sentence1",
+    "category": "python",
+    "input": "Match valid email",
+    "output": "1 Load [file]. Load each line as URL and make a [screenshots] in [tiny] resolution on [mobile] device. Save each [screenshot] to [file] in format [png]."
+  },
+  {
+    "id": 8002,
+    "url": "#sentence2",
+    "category": "python",
+    "input": "Save api",
+    "output": "2 Load [file]. Load each line as URL and make a [screenshots] in [tiny] resolution on [mobile] device. Save each [screenshot] to [file] in format [png]."
+  },
+  {
+    "id": 8003,
+    "url": "#sentence3",
+    "category": "python",
+    "input": "Save api",
+    "output": "2 Load [file]. Load each line as URL and make a [screenshots] in [tiny] resolution on [mobile] device. Save each [screenshot] to [file] in format [png]."
+  },
+  {
+    "id": 8004,
+    "url": "#sentence3",
+    "category": "python",
+    "input": "Convert all pages of PDF Document to text in txt format",
+    "output": "2 Load [file]. Load each line as URL and make a [screenshots] in [tiny] resolution on [mobile] device. Save each [screenshot] to [file] in format [png]."
+  }
+]
